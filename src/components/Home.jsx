@@ -21,7 +21,7 @@ function Home({ data }) {
               <button className="btn">View Projects</button>
             </a>
 
-            <a href="/cv.pdf" target="_blank">
+            <a href="/cv.pdf" target="_blank" rel="noopener noreferrer">
               <button className="btn">Download Resume</button>
             </a>
           </div>
@@ -30,7 +30,7 @@ function Home({ data }) {
         {/* RIGHT */}
         <div className="home-right">
           <div className="image-wrapper">
-            <img src="/profile.jpeg" alt="profile" />
+            <img src="/profile.jpeg" alt="Vishali profile" />
           </div>
         </div>
 

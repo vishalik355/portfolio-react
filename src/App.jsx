@@ -15,9 +15,9 @@ function App() {
   ];
   const heroData = {
     name: "Vishali",
-    title: "Frontend Developer (React.js) | 4+ Years Experience",
-    subtitle: "Open to Full-time Roles | Freelance Projects",
-    desc: "I build fast, responsive, and scalable web applications using React, JavaScript, and modern frontend technologies. Focused on performance, clean code, and seamless user experience.",
+    title: "Frontend Developer (React.js) | Scalable Web Applications | 4+ Years Experience",
+    subtitle: "Open to Full-time Roles | Immediate Joiner",
+    desc: "Frontend Developer with 4+ years of experience building fast, responsive, and scalable web applications using React.js, JavaScript, HTML, and CSS. Focused on performance optimization, clean code practices, and delivering seamless user experiences.",
   };
 
   const aboutData = {
