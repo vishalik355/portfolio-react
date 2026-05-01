@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "img": "project-1.png",
+    "title": "Road to Close",
+    "subtitle": "Real Estate Platform with Modern UI",
+    "desc": "Built a responsive real estate platform with clean UI and optimized user experience.",
+    "tech": "React • CSS • JavaScript",
+    "category": "React",
+    "link": "https://roadtoclose.com"
+  },
+  {
+    "id": 2,
+    "img": "project-2.png",
+    "title": "EI Care",
+    "subtitle": "Healthcare Website Focused on UX",
+    "desc": "Built an accessible healthcare platform improving user experience and navigation.",
+    "tech": "React • CSS • JavaScript",
+    "category": "React",
+    "link": "https://eicare.com.au"
+  },
+  {
+    "id": 3,
+    "img": "project-3.png",
+    "title": "Factory 360",
+    "subtitle": "Industrial Website with Clean Design",
+    "desc": "Designed a modern industrial website with structured layout and professional UI.",
+    "tech": "HTML • CSS • JavaScript",
+    "category": "HTML",
+    "link": "https://factory360.com"
+  },
+  {
+    "id": 4,
+    "img": "project-4.png",
+    "title": "Simcorner",
+    "subtitle": "E-commerce Platform for Global Users",
+    "desc": "Developed a high-traffic e-commerce platform with optimized UX for global users.",
+    "tech": "WordPress • CSS • JavaScript",
+    "category": "WordPress",
+    "link": "https://simcorner.com"
+  },
+  {
+    "id": 5,
+    "img": "project-5.png",
+    "title": "TBS Factoring",
+    "subtitle": "Finance Platform with Structured UI",
+    "desc": "Created a finance platform with clean data structure and intuitive user flow.",
+    "tech": "WordPress • CSS • JavaScript",
+    "category": "WordPress",
+    "link": "https://tbsfactoring.com"
+  }
+]

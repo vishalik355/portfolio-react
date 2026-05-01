@@ -1,0 +1,256 @@
+@media (max-width: 1199px) {
+    .image-wrapper {
+        width: 360px;
+        height: 360px;
+    }
+
+    .home-content {
+        min-height: 50vh;
+    }
+}
+
+@media (max-width: 991px) {
+
+    .navbar-inner .btn,
+    .home-left button,
+    .cmn-btn {
+        padding: 10px 20px;
+        font-size: 16px;
+    }
+
+    .stat-box p {
+        font-size: 15px;
+        margin: 0;
+    }
+
+    .service-card {
+        text-align: center;
+    }
+
+    .stat-box h3 {
+        font-size: 34px;
+    }
+
+    .about-image-wrapper {
+        width: 300px;
+        height: 350px;
+    }
+
+    .home-left h1 {
+        font-size: 35px;
+    }
+
+    .image-wrapper {
+        width: 320px;
+        height: 320px;
+    }
+
+    .menu a {
+        font-size: 16px;
+    }
+
+    .menu {
+        gap: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .menu {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        flex-direction: column;
+        background: #111;
+        padding: 20px;
+
+        /* animation */
+        max-height: 0;
+        overflow: hidden;
+        opacity: 0;
+        transform: translateY(-10px);
+        transition: all 0.4s ease;
+    }
+
+    .menu.active {
+        max-height: 400px;
+        /* content ke hisaab se adjust */
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    .menu-icon {
+        display: block;
+        position: absolute;
+        right: 160px;
+        cursor: pointer;
+        font-size: 24px;
+        transition: all 0.3s ease;
+    }
+
+    .menu-icon.open {
+        transform: rotate(180deg);
+    }
+
+    .home-left h1,
+    .logo {
+        font-size: 35px;
+        line-height: 1.3;
+    }
+
+    .about-content {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .image-wrapper {
+        width: 300px;
+        height: 300px;
+        float: none;
+        display: inline-block;
+    }
+
+    .navbar-inner .btn,
+    .home-left button,
+    .cmn-btn {
+        padding: 10px 20px;
+        font-size: 16px;
+    }
+
+    .home-content {
+        min-height: auto;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+        padding: 40px 20px;
+    }
+
+    .about-image-wrapper {
+        display: inline-block;
+    }
+
+    .home-left,
+    .about-right,
+    .about-left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .home-left p {
+        max-width: 100%;
+    }
+
+    .home-right {
+        width: 100%;
+        text-align: center;
+        margin: 0 0 30px 0;
+    }
+
+    .service-card {
+        text-align: center;
+    }
+
+    .contact,
+    .projects,
+    .services,
+    .about {
+        padding: 40px 0;
+    }
+
+    .hero-btn-wrapper {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 599px) {
+    .filters {
+        justify-content: center;
+        padding: 0 10px;
+        flex-wrap: wrap;
+    }
+
+    .filters button {
+        flex: auto;
+        white-space: normal;
+        width: 48%;
+    }
+
+    .filters::-webkit-scrollbar {
+        display: none;
+    }
+
+    .about-image-wrapper {
+        width: 300px;
+        height: 350px;
+    }
+
+    .stat-box h3 {
+        font-size: 35px;
+    }
+
+    .about-right h2 {
+        font-size: 28px;
+    }
+
+    .section-title {
+        font-size: 30px;
+    }
+
+    .contact-content h2.section-title {
+        margin: 0 0 5px 0;
+    }
+
+    .service-card h3 {
+        font-size: 22px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    .contact-info a {
+        font-size: 16px;
+    }
+
+    p.contact-text {
+        margin: 0 0 20px 0;
+    }
+
+    p.project-desc {
+        font-size: 15px;
+    }
+
+    .project-details h4,
+    .project-details p {
+        font-size: 16px;
+    }
+
+    .project-card h3 {
+        font-size: 22px;
+    }
+
+    .about-stats {
+        flex-wrap: wrap;
+    }
+
+    .stat-box {
+        width: 100%;
+        flex: auto;
+    }
+
+    .home-left h1,
+    .logo {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-btn-wrapper {
+
+        flex-direction: column;
+    }
+
+    .hero-btn-wrapper a,
+    .hero-btn-wrapper button {
+        width: 100%;
+    }
+}
