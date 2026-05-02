@@ -1,16 +1,47 @@
-# React + Vite
+# Vishali Portfolio 🌐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive portfolio website showcasing my frontend development projects, skills, and experience.
 
-Currently, two official plugins are available:
+## Features
+- Fully responsive design (mobile + desktop)
+- Clean and modern UI
+- Project showcase section
+- Reusable component-based architecture
+- Smooth user experience
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5 & CSS3
 
-## React Compiler
+## Featured Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Task Manager App
+- Developed a task management app with CRUD functionality
+- Implemented search, filter (completed/pending), and dark mode
+- Added smooth animations using Framer Motion
+- Used localStorage for data persistence
 
-## Expanding the ESLint configuration
+🔗 Live: https://vk-task-manager.netlify.app/  
+🔗 Code: https://github.com/vishalik355/task-manager-react  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Live Portfolio
+https://vishali-ui-portfolio.netlify.app/
+
+## GitHub Repository
+https://github.com/vishalik355/portfolio-react/
+
+---
+
+## About Me
+Frontend Developer with experience in building responsive and scalable web applications using React.js and modern JavaScript. I focus on clean UI, reusable components, and user-friendly design.
+
+---
+
+## Contact
+- Email: vishalik355@gmail.com  
+- LinkedIn: https://linkedin.com/in/vishali-k-66192a197  
+- GitHub: https://github.com/vishalik355
